@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "2b8daa63-9ae0-447f-b99b-009fa0fb851d",
+      "title": "Title01",
+      "description": "Description01",
+      "date": "2021-09-28",
+      "state": "Pending"
+    },
+    {
+      "id": "ba858630-5f4a-48f3-801b-8f66558c1a77",
+      "title": "Title02",
+      "description": "Description02",
+      "date": "2021-12-17",
+      "state": "Pending"
+    },
+    {
+      "id": "e3d57903-9569-4a3e-8eea-951c3f828cb4",
+      "title": "Title03",
+      "description": "Description03",
+      "date": "2021-09-02",
+      "state": "Completed"
+    },
+    {
+      "id": "3c7231bd-3d34-46e9-9215-fc285271520c",
+      "title": "Title04",
+      "description": "Description04",
+      "date": "2021-09-08",
+      "state": "Completed"
+    },
+    {
+      "id": "e6ae1388-c43d-4e3c-9bb3-7e9c812c107a",
+      "title": "Title05",
+      "description": "Description05",
+      "date": "2021-03-10",
+      "state": "Completed"
+    }
+  ]
+}
